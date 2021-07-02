@@ -33,7 +33,7 @@ Install these packages in [Anaconda](https://docs.anaconda.com/anaconda/user-gui
 - Matplotlib
 - Pandas
 - Sklearn
-- Tensorflow.keras
+- Tensorflow
   
 #### Source Code and Datasets
 Download the Jupyter Notebook file `FinalCode-BTC-prediction.ipynb` [here](https://github.com/hkim42/CS542_Team4_BTCprediction/tree/master/Jupyter%20Notebook%20files).  
