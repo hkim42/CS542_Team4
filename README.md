@@ -44,3 +44,13 @@ Download the testing dataset `BTC-USD_test.csv` [here](https://github.com/hkim42
 1. Run the Jupyter Notebook file by clicking the Jupyter Notebook icon through Anaconda or by running the command `jupyter notebook` in the terminal.
 2. Open `FinalCode-BTC-prediction.ipynb` by navigating to the location folder where you downloaded the file through the Jupyter Notebook dashboard.
 3. Press the ⏩️ button in the middle of the toolbar to run the notebook.
+
+## Usage
+This project can be used to help people to predict the Bitcoin price in the future and make a decision whether or not to buy or sell. You can do this by looking at the prediction results generated using the LSTM or simple RNN model. Although the performance may not be as good as "buy and hold" strategy.
+
+## Credits
+Contributors:
+- Gabriel Belmont - yutab@bu.edu
+- Hyunsoo Kim - hkim42@bu.edu
+- Vikram Varma - vvarma@bu.edu
+- Wenxuan Yan - yanwx@bu.edu
