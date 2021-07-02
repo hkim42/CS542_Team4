@@ -47,9 +47,9 @@ Install these packages in [Anaconda](https://docs.anaconda.com/anaconda/user-gui
   - ~~LinearRegression~~
   
 #### Source Code and Datasets
-Download the Jupyter Notebook file `FinalCode-BTC-prediction.ipynb` [here](https://github.com/hkim42/CS542_Team4_BTCprediction/tree/main/Jupyter%20Notebook%20files).  
-Download the training dataset `BTC-USD_train.csv` [here]().  
-Download the testing dataset `BTC-USD_test.csv` [here]().
+Download the Jupyter Notebook file `FinalCode-BTC-prediction.ipynb` [here](https://github.com/hkim42/CS542_Team4_BTCprediction/tree/master/Jupyter%20Notebook%20files).  
+Download the training dataset `BTC-USD_train.csv` [here](https://github.com/hkim42/CS542_Team4_BTCprediction/tree/master).  
+Download the testing dataset `BTC-USD_test.csv` [here](https://github.com/hkim42/CS542_Team4_BTCprediction/tree/master).
 
 ### 2. Running the code
 1. Run the Jupyter Notebook file by clicking the Jupyter Notebook icon through Anaconda or by running the command `jupyter notebook` in the terminal.
