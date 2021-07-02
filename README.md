@@ -40,7 +40,8 @@ Download all the source codes and the dataset files [here](https://github.com/hk
 - FinalCode-BTC-prediction.ipynb
 - BTC-USD_train.csv
 - BTC-USD_test.csv
-- w0.pkl
+- w0_noTrends.pkl
+- w0_yesTrends.pkl
 
 ### 2. Running the code
 1. Run the Jupyter Notebook file by clicking the Jupyter Notebook icon through Anaconda or by running the command `jupyter notebook` in the terminal.
