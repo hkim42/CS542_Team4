@@ -36,9 +36,11 @@ Install these packages in [Anaconda](https://docs.anaconda.com/anaconda/user-gui
 - Tensorflow
   
 #### Source Code and Datasets
-Download the Jupyter Notebook file `FinalCode-BTC-prediction.ipynb` [here](https://github.com/hkim42/CS542_Team4_BTCprediction/tree/master/FinalCode).  
-Download the training dataset `BTC-USD_train.csv` [here](https://github.com/hkim42/CS542_Team4_BTCprediction/tree/master/FinalCode).  
-Download the testing dataset `BTC-USD_test.csv` [here](https://github.com/hkim42/CS542_Team4_BTCprediction/tree/master/FinalCode).
+Download all the source codes and the dataset files [here](https://github.com/hkim42/CS542_Team4_BTCprediction/tree/master/FinalCode), which will include these files:
+- FinalCode-BTC-prediction.ipynb
+- BTC-USD_train.csv
+- BTC-USD_test.csv
+- w0.pkl
 
 ### 2. Running the code
 1. Run the Jupyter Notebook file by clicking the Jupyter Notebook icon through Anaconda or by running the command `jupyter notebook` in the terminal.
