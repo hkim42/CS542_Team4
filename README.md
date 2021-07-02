@@ -18,9 +18,7 @@ We used a combination of public sentiment data from Google Trends and Bitcoin pr
 
 The datasets are separated into two files:
 - BTC-USD_train.csv  
-  whats contained in the dataset...??
 - BTC-USD_test.csv  
-  whats contained in the dataset...??
 
 ## Setup
 
@@ -35,16 +33,9 @@ Install these packages in [Anaconda](https://docs.anaconda.com/anaconda/user-gui
 - Matplotlib.pyplot
 - Pandas
 - Sklearn.preprocessing
-  - ~~MinMaxScaler~~
 - Tensorflow.keras
-  - ~~Sequential~~
-  - ~~Layers~~
 - Tensorflow.keras.layers
-  - ~~Dense~~
-  - ~~LSTM~~
-  - ~~Dropout~~
 - Sklearn.linear_model
-  - ~~LinearRegression~~
   
 #### Source Code and Datasets
 Download the Jupyter Notebook file `FinalCode-BTC-prediction.ipynb` [here](https://github.com/hkim42/CS542_Team4_BTCprediction/tree/master/Jupyter%20Notebook%20files).  
