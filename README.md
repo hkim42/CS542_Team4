@@ -30,12 +30,10 @@ Install [Jupyter Notebook](https://test-jupyter.readthedocs.io/en/latest/install
 #### Packages for Anaconda
 Install these packages in [Anaconda](https://docs.anaconda.com/anaconda/user-guide/tasks/install-packages/) in order the code to run:
 - Numpy
-- Matplotlib.pyplot
+- Matplotlib
 - Pandas
-- Sklearn.preprocessing
+- Sklearn
 - Tensorflow.keras
-- Tensorflow.keras.layers
-- Sklearn.linear_model
   
 #### Source Code and Datasets
 Download the Jupyter Notebook file `FinalCode-BTC-prediction.ipynb` [here](https://github.com/hkim42/CS542_Team4_BTCprediction/tree/master/Jupyter%20Notebook%20files).  
